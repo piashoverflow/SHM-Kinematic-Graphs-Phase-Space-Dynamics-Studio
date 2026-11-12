@@ -1,0 +1,6 @@
+{
+  "name": "SHM Kinematic Graphs & Phase-Space Dynamics Studio",
+  "description": "Interactive high-DPI physics studio for visualizing Simple Harmonic Motion time-domain graphs (x-t, v-t, a-t), phase-space trajectories (v-x ellipse, a-x line), tangent slopes, and kinematic identities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
